@@ -2,7 +2,8 @@
 
 要先裝 : cuda cudnn 以及 vs的c++編譯器
 
-包含 : convolution層 
+包含 : 
+       convolution層 
 
        softmax層 
      
