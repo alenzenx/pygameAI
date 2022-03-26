@@ -2,11 +2,15 @@
 
 要先裝 : cuda cudnn 以及 vs的c++編譯器
 
-包含:convolution層 softmax層 以及 backpropagation(反向傳播)
+包含 : convolution層 
 
-convolution層:cuda處理
+       softmax層 
+     
+       backpropagation(反向傳播)
 
-softmax層:numpy處理
+convolution層 : cuda處理
+
+softmax層 : numpy處理
 
 本版本只有先訓練 手遊:世界計畫 的4block跟6block的分類而已 
 
